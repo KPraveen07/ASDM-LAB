@@ -6,7 +6,7 @@ public class EvenOdd
 
 	public static void main(String[] args) 
 	{
-		int x=10;
+		int x=15;
 		if (x==10)
 			System.out.println("Even");
 		else
